@@ -1,1 +1,0 @@
-# semantic_utility_model
